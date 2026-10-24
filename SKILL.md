@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-295
-description: "Create XXD Panel 295 raster artwork: a faithful photograph paired with one small warm naive symbol, rounded silhouette, mixed-media grain and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-295 or asks for this 暖拙符号 style."
+description: "XXD Panel 295｜Warm Clumsy Symbol: keeps the photo and reduces its subject to one small warm, slightly clumsy private symbol — simple primitive shapes and a rounded silhouette, slightly off-balance and not quite symmetrical, where one outline, one posture, one local feature or one representative colour can carry the whole sign — in coloured pencil, wax pastel and risograph-like mixed media with paper grain, slight bleed and rough edges, in a quiet low-saturation palette of warm ivory, misty blue, sage green, cream yellow, soft coral and light brown from the photo, placed small and often off-centre in generous whitespace like a logo, seal or collector's mark, with a tiny private number or handwritten fragment. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-295 or asks for a warm naive symbol, rounded mixed-media mark or collectible handmade logo from a photo."
 ---
 
 # XXD Panel 295

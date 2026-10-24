@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 295｜Warm Clumsy Symbol: keeps the photo and reduces its subject to one small warm, slightly clumsy private symbol — simple primitive shapes and a rounded silhouette, slightly off-balance and not quite symmetrical, where one outline, one posture, one local feature or one representative colour can carry the whole sign — in coloured pencil, wax pastel and risograph-like mixed media with paper grain, slight bleed and rough edges, in a quiet low-saturation palette of warm ivory, misty blue, sage green, cream yellow, soft coral and light brown from the photo, placed small and often off-centre in generous whitespace like a logo, seal or collector's mark, with a tiny private number or handwritten fragment. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-295 or asks for a warm naive symbol, rounded mixed-media mark or collectible handmade logo from a photo.",
+  "short_description": "暖拙符号：把照片主体收成一个圆润、略失衡、带彩铅蜡笔纸纹的暖色收藏小标志",
+  "zh-CN": {
+    "name": "暖拙符号",
+    "tagline": "把照片主体收成一个圆润、略失衡、暖而有点笨的私人小标志。",
+    "look": "原照片保留；主体被压缩成几块原始简单的形状和一个圆润剪影，比例略失衡、不完全对称，有设计意识下的自然笨拙。一条轮廓、一种姿态、一处局部特征或一种代表色，就可以撑起整个符号。用彩铅、蜡笔和 Risograph 式的手工混合媒材，留着纸张颗粒、轻微渗色、不均匀覆盖和粗糙边缘。颜色安静、低饱和：暖象牙、雾蓝、鼠尾草绿、奶油黄、柔和珊瑚、浅棕。符号小，常常偏心放置，像一枚收藏标记，周围大片留白，旁边一个小编号或手写片段。",
+    "traits": [
+      "圆润剪影",
+      "混合媒材",
+      "低饱和暖色",
+      "收藏标记",
+      "大面积留白"
+    ],
+    "good": [
+      "剪影圆润、一个特征就能认出的主体：一只柯基的屁股、一顶草帽、一颗橘子",
+      "有一种代表色的日常物：一把红伞、一辆黄色单车、一件绿毛衣",
+      "想做成小店标志、私人收藏编号或礼物卡片符号的照片"
+    ],
+    "poor": [
+      "结构复杂、需要很多细节才能认出的对象：复杂机械、密集街景、群像",
+      "想要动漫、商业吉祥物或过度可爱风的需求",
+      "想要光滑矢量 Logo、3D 或复杂装饰的需求"
+    ]
+  },
+  "en": {
+    "name": "Warm Clumsy Symbol",
+    "tagline": "Reduces the subject of your photo to one rounded, slightly off-balance, warm and clumsy private symbol.",
+    "look": "Your photo stays; the subject is compressed into a few simple primitive shapes and a rounded silhouette, slightly off-balance and not quite symmetrical, with a natural clumsiness that is still carefully designed. One outline, one posture, one local feature or one representative colour can carry the whole sign. It is made in handmade mixed media of coloured pencil, wax pastel and risograph-like imperfection, keeping paper grain, slight bleed, uneven coverage and rough edges. Colours are quiet and low-saturated: warm ivory, misty blue, sage green, cream yellow, soft coral and light brown. The symbol is small and often off-centre, like a collector's mark in generous whitespace, with a tiny number or handwritten fragment.",
+    "traits": [
+      "Rounded silhouette",
+      "Mixed media",
+      "Muted warm colour",
+      "Collector's mark",
+      "Generous whitespace"
+    ],
+    "good": [
+      "Rounded subjects recognisable by one feature: a corgi's rear, a straw hat, a mandarin orange",
+      "Everyday things with one signature colour: a red umbrella, a yellow bicycle, a green jumper",
+      "Photos you want as a small-shop logo, a private collection number or a gift-card symbol"
+    ],
+    "poor": [
+      "Complex subjects that need many details to read: intricate machinery, dense street scenes, group shots",
+      "Requests for anime, a commercial mascot or an overly cute style",
+      "Requests for a smooth vector logo, 3D or elaborate decoration"
+    ]
+  },
+  "ja": {
+    "name": "温かく不器用な記号",
+    "tagline": "写真の主役を、丸くて少しバランスの崩れた、温かく少し不器用な私的な記号にします。",
+    "look": "元の写真は残し、主役を原始的で単純な形いくつかと丸いシルエットに凝縮します。少しバランスが崩れ、左右は完全には揃わず、デザインの意識のもとにある自然な不器用さがあります。輪郭ひとつ、姿勢ひとつ、部分的な特徴ひとつ、あるいは代表色ひとつだけで、記号全体が成り立ちます。色鉛筆、クレヨン、リソグラフのような揺らぎを合わせた手作りのミクストメディアで、紙の粒、軽いにじみ、むらのある塗り、ざらついた縁を残します。色は静かで彩度の低い、温かなアイボリー、霧の青、セージグリーン、クリームイエロー、柔らかなコーラル、淡い茶です。記号は小さく、多くは中心からずらして、コレクションのしるしのように広い余白に置かれ、小さな番号か手書きの断片が添えられます。",
+    "traits": [
+      "丸いシルエット",
+      "ミクストメディア",
+      "低彩度の暖色",
+      "コレクションのしるし",
+      "広い余白"
+    ],
+    "good": [
+      "丸く、特徴ひとつで見分けられる主役：コーギーのおしり、麦わら帽子、みかん",
+      "代表色のある日用品：赤い傘、黄色い自転車、緑のセーター",
+      "小さなお店のロゴ、個人コレクションの番号、ギフトカードの記号にしたい写真"
+    ],
+    "poor": [
+      "見分けるのに多くの細部が必要な複雑な対象：複雑な機械、密集した街並み、集合写真",
+      "アニメ調、商業マスコット、かわいさ過多のスタイルを求める場合",
+      "なめらかなベクターロゴ、3D、凝った装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "따뜻하고 서툰 심벌",
+    "tagline": "사진 속 주인공을 둥글고 살짝 균형이 어긋난, 따뜻하고 조금 서툰 사적인 심벌로 줄입니다.",
+    "look": "원본 사진은 남기고, 주인공을 몇 개의 원초적이고 단순한 형태와 둥근 실루엣으로 압축합니다. 균형이 살짝 어긋나고 좌우가 완전히 같지 않으며, 디자인 의식 아래의 자연스러운 서툶이 있습니다. 윤곽 하나, 자세 하나, 부분적인 특징 하나, 또는 대표 색 하나만으로 심벌 전체가 성립합니다. 색연필, 크레용, 리소그래프 같은 불완전함을 섞은 수작업 혼합 재료로 종이 결, 살짝 번진 색, 고르지 않은 칠, 거친 가장자리를 남깁니다. 색은 조용하고 채도 낮은 따뜻한 상아색, 안개 파랑, 세이지 그린, 크림 옐로, 부드러운 코랄, 연갈색입니다. 심벌은 작고 대개 중심에서 비켜나 수집품 표시처럼 넓은 여백에 놓이며, 작은 번호나 손글씨 조각이 붙습니다.",
+    "traits": [
+      "둥근 실루엣",
+      "혼합 재료",
+      "낮은 채도의 따뜻한 색",
+      "수집품 표시",
+      "넓은 여백"
+    ],
+    "good": [
+      "둥글고 특징 하나로 알아보는 주인공: 코기 엉덩이, 밀짚모자, 귤 하나",
+      "대표 색이 있는 일상 물건: 빨간 우산, 노란 자전거, 초록 스웨터",
+      "작은 가게 로고, 개인 소장품 번호, 선물 카드 심벌로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "알아보려면 디테일이 많이 필요한 복잡한 대상: 복잡한 기계, 빽빽한 거리, 단체 사진",
+      "애니메이션풍, 상업 마스코트, 지나치게 귀여운 스타일을 원하는 경우",
+      "매끈한 벡터 로고, 3D, 화려한 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الرمز الدافئ الأخرق",
+    "tagline": "يختصر العنصر الرئيسي في صورتك في رمز خاص مستدير مختل التوازن قليلاً، دافئ وفيه شيء من الخرق.",
+    "look": "تبقى صورتك، ويُضغط العنصر في بضعة أشكال بدائية بسيطة وظل مستدير، مختل التوازن قليلاً وغير متماثل تماماً، بخرق طبيعي يبقى مع ذلك مدروساً. قد يكفي خط خارجي واحد أو وضعية واحدة أو سمة جزئية واحدة أو لون مميز واحد لحمل الرمز كله. يُنفَّذ بوسائط مختلطة يدوية من الأقلام الملوّنة وأقلام الشمع وعيوب تشبه الريزوغراف، مع حبيبات الورق ونزيف خفيف وتغطية غير متساوية وحواف خشنة. الألوان هادئة قليلة التشبع: عاجي دافئ وأزرق ضبابي وأخضر مريمي وأصفر كريمي ومرجاني ناعم وبني فاتح. الرمز صغير وغالباً بعيد عن المركز، كعلامة مقتنيات في فراغ واسع، ومعه رقم صغير أو قصاصة بخط اليد.",
+    "traits": [
+      "ظل مستدير",
+      "وسائط مختلطة",
+      "ألوان دافئة خافتة",
+      "علامة مقتنيات",
+      "فراغ واسع"
+    ],
+    "good": [
+      "عناصر مستديرة تُعرف من سمة واحدة: مؤخرة كلب كورجي، قبعة قش، حبة يوسفي",
+      "أشياء يومية لها لون مميز واحد: مظلة حمراء، دراجة صفراء، كنزة خضراء",
+      "صور تريدها شعاراً لمتجر صغير أو رقماً لمجموعة خاصة أو رمزاً على بطاقة هدية"
+    ],
+    "poor": [
+      "عناصر معقدة تحتاج تفاصيل كثيرة لتُفهم: آلات معقدة، شوارع مكتظة، صور جماعية",
+      "طلب أسلوب الأنمي أو تميمة تجارية أو لطافة مفرطة",
+      "طلب شعار متجهي ناعم أو مظهر ثلاثي الأبعاد أو زخرفة كثيرة"
+    ]
+  }
+}

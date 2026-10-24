@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 295"
-  short_description: "暖拙符号：上半保留原照，下半把主体收成一个暖而笨拙的小符号"
-  default_prompt: "Use $xxd-panel-295 to transform my photograph following the complete canonical source brief."
+  short_description: "暖拙符号：把照片主体收成一个圆润、略失衡、带彩铅蜡笔纸纹的暖色收藏小标志"
+  default_prompt: "Use $xxd-panel-295 to turn my photo into Warm Clumsy Symbol artwork."
